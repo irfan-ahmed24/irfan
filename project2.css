@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(36, 33, 33);
+  min-height: 100vh;
+  display: flex;
+}
+.main {
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  margin-top: 20%;
+}
+.watch {
+  width: 300px;
+  font-size: 50px;
+  font-style: bold;
+  border-radius: 20px;
+  box-shadow: -10px -10px 10px rgb(255, 255, 255, 0.1);
+  padding: 10px;
+  margin-bottom: 10px;
+  color: aquamarine;
+  background-color: black;
+  text-align: center;
+}
+.btn {
+  text-align: center;
+  width: 300px;
+}
+.btn1 {
+  background-color: red;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn2 {
+  background-color: brown;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn3 {
+  background-color: blue;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
